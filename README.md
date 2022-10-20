@@ -1,16 +1,17 @@
-### Hi there 👋
+#Sobre mim
+- 👋 Olá meu nome é @guilhermefilla04
+- 👍 Meu email de contato é estudante guiifilla04@gmail.com
+- 🔭 Minha data de nascimento é 04 de stembro de 2007
+- ⚡ Meu sonho é se formar em medicina 
+- 💬 Estudo no colegio estadual Victor Bussmann
+- 📫 Moro em Campo do Tenente
+- 👯 Meu canal do youtube https://youtu.be/IgFW-mSPb5k
+- 😄 Tentei viver de laço, me quebrei 
 
-<!--
-**Guilhermefilla04/Guilhermefilla04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ 
+
+
+
